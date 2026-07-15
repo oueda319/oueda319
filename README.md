@@ -1,16 +1,14 @@
 ## Hi there 👋
-
-<!--
-**oueda319/oueda319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Osei Ueda!
+I'm twenty-one years old from Japan.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently working on ...system engineer
+- I’m currently learning ...Git&GitHub
+- My favorite anime ...Attack on Titan,Eighty-Six,Hunter×Hunter,Demon Slayer,That Time I Got Reincarnated as a Slime
+- My favorite song ...YOSHIKI-RedSwan(feat.Hyde)
+- My favorite male character ...Erwin Smith,Levi Ackerman,Eren Yeager
+- My favorite female character ...Vladirena MIllize,Pieck FInger,Annie Leonhart,Hyacine
+
+
